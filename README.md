@@ -42,4 +42,4 @@ If Crate Climb ever begins handling information differently, this policy will be
 
 ## Contact
 
-Questions about this policy can be sent to CONTACT_EMAIL_HERE.
+Questions about this policy can be sent to jakob@atojump.com.
